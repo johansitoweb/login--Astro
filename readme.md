@@ -1,10 +1,6 @@
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Hedystia" src="https://hedystia.com/img/Hedystia.webp">
 
-## Links
+login--Astros
 
-> - [Website](https://hedystia.com/) (Discord Bot) - Use Astro
-> - [Discord](https://hedystia.com/support) (Discord Support)
-> - [Portfolio](https://zastinian.com/)
 
 ## How to edit
 
